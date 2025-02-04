@@ -6,7 +6,7 @@ Nord-Light was changed into Nord-Light-pink in this fork.
 
 ## Screenshot
 
-![Light Variant](https://github.com/xpe-online/images/blob/main/nord-light-pink.png?raw=true)
+![Light Variant](https://github.com/user-attachments/assets/1321929c-dad1-4973-b7cf-5f63e9766a25)
 ![Dark Variant](https://user-images.githubusercontent.com/29998228/127147288-372b2a8b-59ff-47be-9f60-274b12361c8c.png)
 
 ## Usage
