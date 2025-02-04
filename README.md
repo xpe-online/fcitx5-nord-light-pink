@@ -1,6 +1,7 @@
 # fcitx5-nord
 
 Fcitx5 theme based on Nord color.
+Nord-Light was changed into Nord-Light-pink in this fork.
 
 ## Screenshot
 
