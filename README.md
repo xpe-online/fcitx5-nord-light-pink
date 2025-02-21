@@ -7,16 +7,15 @@ Nord-Light was changed into Nord-Light-pink in this fork.
 ## Screenshot
 
 ![Light Variant](https://github.com/user-attachments/assets/1321929c-dad1-4973-b7cf-5f63e9766a25)
-![Dark Variant](https://user-images.githubusercontent.com/29998228/127147288-372b2a8b-59ff-47be-9f60-274b12361c8c.png)
 
 ## Usage
 
 ### Installation
 
 ```sh
-git clone https://github.com/xpe-online/fcitx5-nord-light-pink.git
+git clone https://github.com/xpe-online/fcitx5-nord-pink.git
 mkdir -p ~/.local/share/fcitx5/themes/
-cd fcitx5-nord
+cd fcitx5-nord-pink
 cp -r Nord-Dark/ Nord-Light/ ~/.local/share/fcitx5/themes/
 ```
 
@@ -25,9 +24,7 @@ cp -r Nord-Dark/ Nord-Light/ ~/.local/share/fcitx5/themes/
 In `~/.config/fcitx5/conf/classicui.conf`, change the `Theme` line as
 
 ```dosini
-Theme=Nord-Dark
-# or
-Theme=Nord-Light
+Theme=Nord-Pink
 ```
 
 Then restart fcitx5 to apply the theme.
