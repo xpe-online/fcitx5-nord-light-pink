@@ -1,8 +1,7 @@
-# fcitx5-nord
+# fcitx5-nord-pink
 
+Modified from [tonyfettes/fcitx5-nord](https://github.com/tonyfettes/fcitx5-nord).
 Fcitx5 theme based on Nord color.
-
-Nord-Light was changed into Nord-Light-pink in this fork.
 
 ## Screenshot
 
