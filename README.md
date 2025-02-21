@@ -16,7 +16,7 @@ Fcitx5 theme based on Nord color.
 git clone https://github.com/xpe-online/fcitx5-nord-pink.git
 mkdir -p ~/.local/share/fcitx5/themes/
 cd fcitx5-nord-pink
-cp -r Nord-Dark/ Nord-Light/ ~/.local/share/fcitx5/themes/
+cp -r Nord-Pink/ ~/.local/share/fcitx5/themes/
 ```
 
 ### Enabling
